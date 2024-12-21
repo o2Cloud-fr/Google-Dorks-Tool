@@ -1,0 +1,7 @@
+tkinter>=8.6
+ttkthemes>=3.2.2
+webbrowser
+
+
+#sudo apt-get install python3-tk  # Pour Debian/Ubuntu
+#sudo dnf install python3-tkinter  # Pour Fedora
